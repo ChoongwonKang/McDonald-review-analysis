@@ -1,2 +1,2 @@
-# Machine_Learning_classification
-school_project
+# McDonald review analysis
+Machine_Learning_classification
