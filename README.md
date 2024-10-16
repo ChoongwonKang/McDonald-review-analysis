@@ -1,2 +1,2 @@
 # McDonald review analysis
-Machine_Learning_classification
+This study examines U.S McDonald review data through conventional machine_learning_classifier.
